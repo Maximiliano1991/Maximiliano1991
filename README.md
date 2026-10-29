@@ -16,10 +16,4 @@ Here are some ideas to get you started:
 # 👾Hello, I'm Max!
 ## About me
 - 🔭 I’m currently working as a :shield: PAM security analyst
-- 🌱 I’m currently learning about 🔐Infosec and 🐍Python scripting
-
-### 📊 GitHub Stats
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maximiliano1991&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maximiliano1991&show_icons=true&theme=tokyonight&hide_border=true)
+- 🌱 Learning about 🔐Infosec and 🐍Python scripting

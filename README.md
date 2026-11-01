@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 # 👾Hello, I'm Max!
 ## About me
 - 🔭 I’m currently working as a :shield: PAM security analyst
-- 🌱 Learning about 🔐Infosec and 🐍Python scripting
+- 🌱 Learning about ☁️Cloud - ♾️DevSecOps and 🐍Python scripting
